@@ -1,16 +1,16 @@
-# QRApp
-QR Scanner And Generator Application For generating Any Link To QR Code !
+# qr_code_scanner
 
-📲 Exciting News: Introducing the Ultimate QR Code Toolkit for Flutter App Developers! 🚀
+A new Flutter project.
 
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-Hello #FlutterCommunity! I am thrilled to announce the launch of my latest creation - an all-in-one Flutter application that brings the power of QR codes right to your fingertips! 🎉📱
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-🔗 Generate QR Codes Instantly
-
-📷 Scan QR Codes Seamlessly
-
-🎨 Sleek and Intuitive Design
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
